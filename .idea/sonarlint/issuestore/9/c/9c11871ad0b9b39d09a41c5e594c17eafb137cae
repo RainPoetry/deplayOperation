@@ -1,0 +1,20 @@
+
+Psquid:S1612ä",Replace this lambda with a method reference.(Ÿˆõûÿÿÿÿ8«Ë”ˆ-
+\
+squid:S106´"9Replace this use of System.out or System.err by a logger.(®Á’ûÿÿÿÿ8“í‚¢ˆ-
+psquid:UselessImportCheck"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(òªø8«Ë”ˆ-
+Esquid:S3398‰"!Move this method into "Watchers".(ƒÏëÔøÿÿÿÿ8«Ë”ˆ-
+Dsquid:S1172/"&Remove these unused method parameters.(ÓŒÜ¡8‰ÃÓı†-
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ö¼Ş•8‰ÃÓı†-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ö¼Ş•8‰ÃÓı†-
+[squid:S3655ä"7Call "Optional#isPresent()" before accessing the value.(Ÿˆõûÿÿÿÿ8«Ë”ˆ-
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£ğ™÷8úÖÒı†-
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(šÄ¹8‰ÃÓı†-
+Jsquid:S1612#",Replace this lambda with a method reference.(÷‚¯8«Ë”ˆ-
+gsquid:UselessImportCheck"<Remove this unused import 'java.util.concurrent.locks.Lock'.(µÒÌÿ8«Ë”ˆ-
+V
+squid:S106b"9Replace this use of System.out or System.err by a logger.(›ÉĞ½8¢Ú×¡ˆ-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(šÄ¹8‰ÃÓı†-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(£ğ™÷8úÖÒı†-
+Usquid:S3655n"7Call "Optional#isPresent()" before accessing the value.(Á¦“¡8«Ë”ˆ-
+Jsquid:S1612n",Replace this lambda with a method reference.(Á¦“¡8«Ë”ˆ-

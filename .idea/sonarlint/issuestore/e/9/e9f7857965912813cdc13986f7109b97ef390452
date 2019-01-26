@@ -1,0 +1,5 @@
+
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(ëƒÜ’
+Qsquid:S2222";Unlock this lock along all executions paths of this method.(¤­k
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

@@ -1,0 +1,12 @@
+
+Qsquid:S1161Q":Add the "@Override" annotation above this method signature(“–ýþ
+@squid:S2629-"$Invoke method(s) only conditionally.(ó„ô¯ùÿÿÿÿ
+;squid:S2629>"$Invoke method(s) only conditionally.(€®´Ñ
+]squid:S2142F"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148G"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148<"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1068"(Remove this unused "name" private field.(Ú§×œ
+@squid:S2629D"$Invoke method(s) only conditionally.(ÛÍŒþÿÿÿÿ
+Asquid:S1181["%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+]squid:S2142;"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+;squid:S2629a"$Invoke method(s) only conditionally.(‘£î¸

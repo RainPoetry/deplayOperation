@@ -1,0 +1,12 @@
+
+„ squid:ForLoopCounterChangedCheckw"XRefactor the code in order to not assign to this loop counter from within the loop body.(œ€ÎÁ
+csquid:CommentedOutCodeLinež"<This block of commented-out lines of code should be removed.(¹°‹ˆ
+jsquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(®ˆüä8ÑÍ—ˆ-
+jsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(ÉˆèÄ8æ…©ˆ-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶¡ù8ÆÝ©ˆ-
+isquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(êÛž8…°©ˆ-
+isquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(”®Ë{8  —ˆ-
+Asquid:S1068a"+Remove this unused "startMs" private field.(ìˆ²6
+osquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ß÷ðüýÿÿÿÿ8Úî©ˆ-
+X
+squid:S899š":Do something with the "boolean" value returned by "offer".(ÝÞÎ8ØŒ©–ˆ-
