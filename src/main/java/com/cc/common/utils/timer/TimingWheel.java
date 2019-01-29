@@ -158,7 +158,6 @@ public class TimingWheel {
 
 	// Try to advance the clock
 	public void advanceClock(long timeMs) {
-
 		if (timeMs >= currentTime + tickMs) {
 			currentTime =  timeMs - (timeMs % tickMs);
 //			System.out.println("advance: " + timeMs + " - " + currentTime);

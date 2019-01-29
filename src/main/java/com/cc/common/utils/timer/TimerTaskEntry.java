@@ -3,7 +3,7 @@ package com.cc.common.utils.timer;
 /**
  * User: chenchong
  * Date: 2019/1/18
- * description:
+ * description:	 数据单元
  */
 public class TimerTaskEntry {
 

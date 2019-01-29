@@ -12,7 +12,9 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * User: chenchong
  * Date: 2019/1/17
- * description:	DelayOperation 的 Base Class
+ * description:	规范延迟操作的实现标准
+ *
+ *
  */
 public abstract class DelayedOperation extends TimerTask {
 

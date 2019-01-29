@@ -13,7 +13,7 @@ import java.util.function.Consumer;
 /**
  * User: chenchong
  * Date: 2019/1/17
- * description:
+ * description:	数据存储的实现 ， 双向链表
  */
 public class TimerTaskList implements Delayed {
 
